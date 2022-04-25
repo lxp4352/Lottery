@@ -1,5 +1,7 @@
 # Lottery 抽奖系统 - 基于领域驱动设计的四层架构实践
 
+https://bugstack.cn/md/project/lottery/introduce/Lottery%E6%8A%BD%E5%A5%96%E7%B3%BB%E7%BB%9F.html
+
 [![](https://bugstack.cn/images/article/project/lottery/introduce/introduce-220101-01.png)](https://t.zsxq.com/jAi2nUf)
 
 - **加入项目**：[https://t.zsxq.com/jAi2nUf](https://t.zsxq.com/jAi2nUf) - 加入后在星球置顶消息可以申请加入项目组，`公众号：bugstack虫洞栈 回复：星球 可以获得加入优惠券`
